@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary>晚：饭/腊肠；蚝油生菜；牛排/紫薯；</summary>
+  <summary>晚：饭/腊肠；蚝油生菜；牛排/紫薯；咖喱丸子；</summary>
   
-  
+  ![2022-04-10-dinner](./image/2022-04-10-dinner.jpeg)
 </details>
