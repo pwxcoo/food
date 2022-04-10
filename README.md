@@ -25,3 +25,17 @@
   
   ![2022-04-10-dinner](./image/2022-04-10-dinner.jpeg)
 </details>
+
+### 2022/04/11
+
+<details>
+  <summary>中：饭/腊肠；醋溜大白菜；青椒肉肠；</summary>
+  
+  ![2022-04-11-lunch](./image/2022-04-11-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：卤肉味方便面/鸡蛋面/贡丸/油面筋；黄瓜炒蛋；</summary>
+  
+  ![2022-04-11-dinner](./image/2022-04-11-dinner.jpeg)
+</details>
