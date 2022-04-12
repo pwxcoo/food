@@ -53,3 +53,17 @@
   
   ![2022-04-12-dinner](./image/2022-04-12-dinner.jpeg)
 </details>
+
+### 2022/04/13
+
+<details>
+  <summary>中：紫薯；饺子；蚝油生菜；白菜丸子汤；橘子；</summary>
+  
+  ![2022-04-13-lunch](./image/2022-04-13-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：饭；番茄鸡蛋汤；肉肠黄瓜；橙子</summary>
+  
+  ![2022-04-13-dinner](./image/2022-04-13-dinner.jpeg)
+</details>
