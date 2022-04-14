@@ -71,13 +71,14 @@
 ### 2022/04/14
 
 <details>
-  <summary>中：饭；糖醋黄瓜；德州扒鸡；</summary>
+
+  <summary>中：饭；糖醋黄瓜；德州扒鸡；橙子；</summary>
   
   ![2022-04-14-lunch](./image/2022-04-14-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：🥕胡萝卜饼；牛排；丸子白菜汤；</summary>
+  <summary>晚：🥕胡萝卜饼；牛排；丸子白菜汤；橘子</summary>
   
   ![2022-04-14-dinner](./image/2022-04-14-dinner.jpeg)
 </details>
