@@ -82,3 +82,18 @@
   
   ![2022-04-14-dinner](./image/2022-04-14-dinner.jpeg)
 </details>
+
+### 2022/04/15
+
+<details>
+
+  <summary>中：饭；豆腐+火腿肠+胡萝卜+咸鸭蛋羹；黄瓜炒蛋；火龙果；</summary>
+  
+  ![2022-04-15-lunch](./image/2022-04-15-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：虾滑白菜面+油面筋；麻辣土豆；橙子；</summary>
+  
+  ![2022-04-15-dinner](./image/2022-04-15-dinner.jpeg)
+</details>
