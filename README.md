@@ -97,3 +97,18 @@
   
   ![2022-04-15-dinner](./image/2022-04-15-dinner.jpeg)
 </details>
+
+### 2022/04/16
+
+<details>
+
+  <summary>中：培根+面包+黄瓜+番茄；牛奶炒蛋；牛排；蛋挞；橙子；</summary>
+  
+  ![2022-04-16-lunch](./image/2022-04-16-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：炒饭+黄瓜+火腿肠+番茄+蛋；鸭腿；苹果；</summary>
+  
+  ![2022-04-16-dinner](./image/2022-04-16-dinner.jpeg)
+</details>
