@@ -112,3 +112,18 @@
   
   ![2022-04-16-dinner](./image/2022-04-16-dinner.jpeg)
 </details>
+
+### 2022/04/17
+
+<details>
+
+  <summary>中：饭；热狗肠；糖藕；苹果；</summary>
+  
+  ![2022-04-17-lunch](./image/2022-04-17-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：饺子；麻辣土豆；橙子；</summary>
+  
+  ![2022-04-17-dinner](./image/2022-04-17-dinner.jpeg)
+</details>
