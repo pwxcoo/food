@@ -108,7 +108,7 @@
 </details>
 
 <details>
-  <summary>晚：炒饭+黄瓜+火腿肠+番茄+蛋；鸭腿；苹果；</summary>
+  <summary>晚：炒饭+黄瓜+火腿肠+番茄+蛋；鸭腿；橙子；</summary>
   
   ![2022-04-16-dinner](./image/2022-04-16-dinner.jpeg)
 </details>
