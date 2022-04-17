@@ -117,13 +117,13 @@
 
 <details>
 
-  <summary>中：饭；热狗肠；糖藕；苹果；</summary>
+  <summary>中：饭；糖藕；鸭脖；苹果；</summary>
   
   ![2022-04-17-lunch](./image/2022-04-17-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：饺子；麻辣土豆；橙子；</summary>
+  <summary>晚：饺子；虾尾；鸡米花；</summary>
   
   ![2022-04-17-dinner](./image/2022-04-17-dinner.jpeg)
 </details>
