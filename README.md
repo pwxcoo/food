@@ -132,13 +132,13 @@
 
 <details>
 
-  <summary>中：炒乌冬面+火腿肠+蛋+胡萝卜；青椒土豆丝；蚝油青菜；</summary>
+  <summary>中：炒乌冬面+火腿肠+蛋+胡萝卜；青椒土豆丝；蚝油青菜；橙子；</summary>
   
   ![2022-04-18-lunch](./image/2022-04-18-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：蛋炒饭+黄瓜+热狗肠+胡萝卜；糖醋黄瓜；鸭舌；橙子；</summary>
+  <summary>晚：蛋炒饭+黄瓜+热狗肠+胡萝卜；糖醋黄瓜；鸭舌；</summary>
   
   ![2022-04-18-dinner](./image/2022-04-18-dinner.jpeg)
 </details>
