@@ -147,13 +147,13 @@
 
 <details>
 
-  <summary>中：鸡蛋面+卤蛋；洋葱炒牛肉；蒜蓉青菜；</summary>
+  <summary>中：鸡蛋面；洋葱炒牛肉；蒜蓉青菜；</summary>
   
   ![2022-04-19-lunch](./image/2022-04-19-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：手擀面+番茄+胡萝卜+蛋+热狗肠；鸡米花；</summary>
+  <summary>晚：鸡蛋面+番茄+胡萝卜+蛋+热狗肠；鸡米花；蛋羹；</summary>
   
   ![2022-04-19-dinner](./image/2022-04-19-dinner.jpeg)
 </details>
