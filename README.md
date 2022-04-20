@@ -172,3 +172,18 @@
   
   ![2022-04-20-dinner](./image/2022-04-20-dinner.jpeg)
 </details>
+
+### 2022/04/21
+
+<details>
+
+  <summary>中：饺子；芹菜炒腊肠；鸭锁骨；糖番茄；</summary>
+  
+  ![2022-04-21-lunch](./image/2022-04-21-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：鸡蛋面+蛋+墨鱼丸+大白菜+炸豆皮；炒茄子；</summary>
+  
+  ![2022-04-21-dinner](./image/2022-04-21-dinner.jpeg)
+</details>
