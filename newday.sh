@@ -24,5 +24,4 @@ echo "
   <summary>晚：</summary>
   
   ![$date-dinner](./image/$date-dinner.jpeg)
-</details>
-" >> README.md
+</details>" >> README.md
