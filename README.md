@@ -187,3 +187,18 @@
   
   ![2022-04-21-dinner](./image/2022-04-21-dinner.jpeg)
 </details>
+
+### 2022/04/22
+
+<details>
+
+  <summary>中：饭；罗宋汤；青椒牛肉；</summary>
+  
+  ![2022-04-22-lunch](./image/2022-04-22-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：粽子；罗宋汤；蛋饼+肉松+黄瓜丝；</summary>
+  
+  ![2022-04-22-dinner](./image/2022-04-22-dinner.jpeg)
+</details>
