@@ -217,3 +217,18 @@
   
   ![2022-04-23-dinner](./image/2022-04-23-dinner.jpeg)
 </details>
+
+### 2022/04/24
+
+<details>
+
+  <summary>中：粽子；小排+豆干；蚝油生菜；榴莲千层；</summary>
+  
+  ![2022-04-24-lunch](./image/2022-04-24-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：番茄鸡蛋面；扒鸡；榴莲千层；</summary>
+  
+  ![2022-04-24-dinner](./image/2022-04-24-dinner.jpeg)
+</details>
