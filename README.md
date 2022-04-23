@@ -198,7 +198,22 @@
 </details>
 
 <details>
-  <summary>晚：粽子；罗宋汤；蛋饼+肉松+黄瓜丝；</summary>
+  <summary>晚：面；罗宋汤；蛋饼+肉松；</summary>
   
   ![2022-04-22-dinner](./image/2022-04-22-dinner.jpeg)
+</details>
+
+### 2022/04/23
+
+<details>
+
+  <summary>中：鸡蛋面+炸豆皮；地三鲜；滑蛋牛肉；</summary>
+  
+  ![2022-04-23-lunch](./image/2022-04-23-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：饺子；排骨汤+胡萝卜；糖醋黄瓜；</summary>
+  
+  ![2022-04-23-dinner](./image/2022-04-23-dinner.jpeg)
 </details>
