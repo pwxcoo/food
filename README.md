@@ -232,3 +232,18 @@
   
   ![2022-04-24-dinner](./image/2022-04-24-dinner.jpeg)
 </details>
+
+### 2022/04/25
+
+<details>
+
+  <summary>中：火鸡面+芝士+热狗肠；黄瓜炒蛋+咸鸭蛋；橙子；</summary>
+  
+  ![2022-04-25-lunch](./image/2022-04-25-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：番茄刀削面+牛肉丝；煎蛋；</summary>
+  
+  ![2022-04-25-dinner](./image/2022-04-25-dinner.jpeg)
+</details>
