@@ -237,7 +237,7 @@
 
 <details>
 
-  <summary>中：火鸡面+芝士+热狗肠；黄瓜炒蛋+咸鸭蛋；橙子；</summary>
+  <summary>中：火鸡面+芝士+热狗肠；黄瓜炒蛋；橙子；</summary>
   
   ![2022-04-25-lunch](./image/2022-04-25-lunch.jpeg)
 </details>
