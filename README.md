@@ -247,3 +247,18 @@
   
   ![2022-04-25-dinner](./image/2022-04-25-dinner.jpeg)
 </details>
+
+### 2022/04/26
+
+<details>
+
+  <summary>中：水饺；冬瓜丸子汤；橙子；</summary>
+  
+  ![2022-04-26-lunch](./image/2022-04-26-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：油泼刀削面；鸭腿；大白菜炒蛋；橙子；</summary>
+  
+  ![2022-04-26-dinner](./image/2022-04-26-dinner.jpeg)
+</details>
