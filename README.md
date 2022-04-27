@@ -277,3 +277,18 @@
   
   ![2022-04-27-dinner](./image/2022-04-27-dinner.jpeg)
 </details>
+
+### 2022/04/28
+
+<details>
+
+  <summary>中：刀削面+鸡蛋酱；青椒牛肉丝；苹果+酸奶；</summary>
+  
+  ![2022-04-28-lunch](./image/2022-04-28-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：西葫芦鸡蛋饼；酱鸭；橙子；</summary>
+  
+  ![2022-04-28-dinner](./image/2022-04-28-dinner.jpeg)
+</details>
