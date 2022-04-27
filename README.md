@@ -262,3 +262,18 @@
   
   ![2022-04-26-dinner](./image/2022-04-26-dinner.jpeg)
 </details>
+
+### 2022/04/27
+
+<details>
+
+  <summary>中：葱油饼+蛋+热狗肠；咖喱鸡肉卷；苹果+酸奶；</summary>
+  
+  ![2022-04-27-lunch](./image/2022-04-27-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：粽子；红烧冬瓜；青椒牛肉片；</summary>
+  
+  ![2022-04-27-dinner](./image/2022-04-27-dinner.jpeg)
+</details>
