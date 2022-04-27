@@ -273,7 +273,7 @@
 </details>
 
 <details>
-  <summary>晚：粽子；红烧冬瓜；青椒牛肉片；</summary>
+  <summary>晚：粽子；红烧冬瓜+榨菜；青椒牛肉片；橙子；</summary>
   
   ![2022-04-27-dinner](./image/2022-04-27-dinner.jpeg)
 </details>
