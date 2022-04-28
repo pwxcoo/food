@@ -292,3 +292,19 @@
   
   ![2022-04-28-dinner](./image/2022-04-28-dinner.jpeg)
 </details>
+
+
+### 2022/04/29
+
+<details>
+
+  <summary>中：大鸡蛋汤面+荷包蛋+小青菜；烤鸡翅；糖醋黄瓜；提子；</summary>
+  
+  ![2022-04-29-lunch](./image/2022-04-29-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：炒乌冬面+蛋+火腿肠+小青菜；烤鸡翅；酸奶苹果；</summary>
+  
+  ![2022-04-29-dinner](./image/2022-04-29-dinner.jpeg)
+</details>
