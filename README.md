@@ -304,7 +304,7 @@
 </details>
 
 <details>
-  <summary>晚：炒乌冬面+蛋+火腿肠+小青菜；烤鸡翅；酸奶苹果；</summary>
+  <summary>晚：炒乌冬面+蛋+火腿肠+小青菜+胡萝卜；烤鸡翅+土豆+芝士；苹果+提子；</summary>
   
   ![2022-04-29-dinner](./image/2022-04-29-dinner.jpeg)
 </details>
