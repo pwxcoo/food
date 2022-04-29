@@ -308,3 +308,18 @@
   
   ![2022-04-29-dinner](./image/2022-04-29-dinner.jpeg)
 </details>
+
+### 2022/04/30
+
+<details>
+
+  <summary>中：面包+芝士+培根；牛奶+鸡蛋；6个煎饺；酸奶+蓝莓；</summary>
+  
+  ![2022-04-30-lunch](./image/2022-04-30-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：手抓饼披萨（芝士+肉松+红肠）；酱鸭；提子；</summary>
+  
+  ![2022-04-30-dinner](./image/2022-04-30-dinner.jpeg)
+</details>
