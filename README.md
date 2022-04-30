@@ -323,3 +323,18 @@
   
   ![2022-04-30-dinner](./image/2022-04-30-dinner.jpeg)
 </details>
+
+### 2022/05/01
+
+<details>
+
+  <summary>中：面包+热狗肠；牛排；芦笋；橙子；</summary>
+  
+  ![2022-05-01-lunch](./image/2022-05-01-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：小笼包；小青菜；炸翅根；黄樱桃番茄；</summary>
+  
+  ![2022-05-01-dinner](./image/2022-05-01-dinner.jpeg)
+</details>
