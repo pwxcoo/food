@@ -328,7 +328,7 @@
 
 <details>
 
-  <summary>中：面包+热狗肠；牛排；芦笋；橙子；</summary>
+  <summary>中：牛排；芦笋；橙子；</summary>
   
   ![2022-05-01-lunch](./image/2022-05-01-lunch.jpeg)
 </details>
