@@ -354,3 +354,19 @@
   
   ![2022-05-02-dinner](./image/2022-05-02-dinner.jpeg)
 </details>
+
+
+### 2022/05/03
+
+<details>
+
+  <summary>中：米饭；糖醋小排；番茄炒蛋；酸奶蓝莓；</summary>
+  
+  ![2022-05-03-lunch](./image/2022-05-03-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：披萨；烤鸡翅+热狗肠；薯条；西瓜；</summary>
+  
+  ![2022-05-03-dinner](./image/2022-05-03-dinner.jpeg)
+</details>
