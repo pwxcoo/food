@@ -344,13 +344,13 @@
 
 <details>
 
-  <summary>中：炒鸡蛋面+胡萝卜+热狗肠+蛋+小白菜；酱鸭；橙子；</summary>
+  <summary>中：炒鸡蛋面+胡萝卜（丢弃）+热狗肠+蛋+小白菜；酱鸭；橙子；</summary>
   
   ![2022-05-02-lunch](./image/2022-05-02-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：饺子；娃娃菜炒蛋+红肠；小酥肉；提子；</summary>
+  <summary>晚：炒鸡蛋面+红肠；娃娃菜炒蛋+红肠；小酥肉；提子；</summary>
   
   ![2022-05-02-dinner](./image/2022-05-02-dinner.jpeg)
 </details>
