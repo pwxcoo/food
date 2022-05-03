@@ -370,3 +370,19 @@
   
   ![2022-05-03-dinner](./image/2022-05-03-dinner.jpeg)
 </details>
+
+
+### 2022/05/04
+
+<details>
+
+  <summary>中：米饭；咖喱牛肉+胡萝卜+土豆；荷包蛋；苹果酸奶；</summary>
+  
+  ![2022-05-04-lunch](./image/2022-05-04-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：蛋炒饭+咸鸭蛋+胡萝卜；排骨汤+胡萝卜；黄樱桃番茄；</summary>
+  
+  ![2022-05-04-dinner](./image/2022-05-04-dinner.jpeg)
+</details>
