@@ -376,7 +376,7 @@
 
 <details>
 
-  <summary>中：米饭；咖喱牛肉+胡萝卜+土豆；荷包蛋；苹果酸奶；</summary>
+  <summary>中：米饭；咖喱牛肉+胡萝卜+土豆；苹果酸奶；</summary>
   
   ![2022-05-04-lunch](./image/2022-05-04-lunch.jpeg)
 </details>
