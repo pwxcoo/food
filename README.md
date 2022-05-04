@@ -386,3 +386,19 @@
   
   ![2022-05-04-dinner](./image/2022-05-04-dinner.jpeg)
 </details>
+
+
+### 2022/05/05
+
+<details>
+
+  <summary>中：米饭；娃娃菜+红肠；炸翅根；橙子；</summary>
+  
+  ![2022-05-05-lunch](./image/2022-05-05-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：饺子；虾饼；火龙果+酸奶；</summary>
+  
+  ![2022-05-05-dinner](./image/2022-05-05-dinner.jpeg)
+</details>
