@@ -398,7 +398,7 @@
 </details>
 
 <details>
-  <summary>晚：饺子；虾饼；火龙果+酸奶；</summary>
+  <summary>晚：饺子；虾饼；煎蛋；火龙果+酸奶；</summary>
   
   ![2022-05-05-dinner](./image/2022-05-05-dinner.jpeg)
 </details>
