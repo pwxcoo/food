@@ -402,3 +402,19 @@
   
   ![2022-05-05-dinner](./image/2022-05-05-dinner.jpeg)
 </details>
+
+
+### 2022/05/06
+
+<details>
+
+  <summary>中：馒头+番茄+肉糜；午餐肉炒娃娃菜；黑提；</summary>
+  
+  ![2022-05-06-lunch](./image/2022-05-06-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：大鸡蛋面+卤蛋+榨菜+咸蛋+鸡蛋；烤肠+黄樱桃番茄；</summary>
+  
+  ![2022-05-06-dinner](./image/2022-05-06-dinner.jpeg)
+</details>
