@@ -418,3 +418,19 @@
   
   ![2022-05-06-dinner](./image/2022-05-06-dinner.jpeg)
 </details>
+
+
+### 2022/05/07
+
+<details>
+
+  <summary>中：米饭；洋葱炒肉丝；炒蛋；黑提；</summary>
+  
+  ![2022-05-07-lunch](./image/2022-05-07-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：意大利面+番茄肉酱；烤翅；黄樱桃番茄；</summary>
+  
+  ![2022-05-07-dinner](./image/2022-05-07-dinner.jpeg)
+</details>
