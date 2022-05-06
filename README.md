@@ -414,7 +414,7 @@
 </details>
 
 <details>
-  <summary>晚：大鸡蛋面+卤蛋+榨菜+咸蛋+鸡蛋；烤肠+黄樱桃番茄；</summary>
+  <summary>晚：手抓饼+培根+烤肠+鸡蛋+肉松+芝士；火龙果+酸奶；</summary>
   
   ![2022-05-06-dinner](./image/2022-05-06-dinner.jpeg)
 </details>
