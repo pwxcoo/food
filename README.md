@@ -450,3 +450,19 @@
   
   ![2022-05-08-dinner](./image/2022-05-08-dinner.jpeg)
 </details>
+
+
+### 2022/05/09
+
+<details>
+
+  <summary>中：米饭；鸭锁骨；番茄炒蛋；黑提；</summary>
+  
+  ![2022-05-09-lunch](./image/2022-05-09-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：馒头片+番茄酱；清炒青菜；小米椒炒五花肉；黑提；</summary>
+  
+  ![2022-05-09-dinner](./image/2022-05-09-dinner.jpeg)
+</details>
