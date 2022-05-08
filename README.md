@@ -446,7 +446,7 @@
 </details>
 
 <details>
-  <summary>晚：炒乌冬面+胡萝卜+咸蛋+鸡蛋+火腿肠；鸭锁骨；黑提；</summary>
+  <summary>晚：大排鸡蛋面；提拉米苏；黑提；</summary>
   
   ![2022-05-08-dinner](./image/2022-05-08-dinner.jpeg)
 </details>
