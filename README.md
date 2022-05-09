@@ -466,3 +466,19 @@
   
   ![2022-05-09-dinner](./image/2022-05-09-dinner.jpeg)
 </details>
+
+
+### 2022/05/10
+
+<details>
+
+  <summary>中：米饭；盐酥鸡；热狗肠炒蛋；苹果；</summary>
+  
+  ![2022-05-10-lunch](./image/2022-05-10-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：蛋炒饭+火腿肠+胡萝卜+咸蛋；咖喱丸子；红提；</summary>
+  
+  ![2022-05-10-dinner](./image/2022-05-10-dinner.jpeg)
+</details>
