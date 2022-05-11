@@ -488,13 +488,13 @@
 
 <details>
 
-  <summary>中：煎饺；清炒菠菜；鸡翅根；</summary>
+  <summary>中：煎饺；清炒菠菜；鸡翅根；苹果酸奶；</summary>
   
   ![2022-05-11-lunch](./image/2022-05-11-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：炒乌冬面+青菜+蛋；鸭锁骨；红提；</summary>
+  <summary>晚：炒乌冬面+青菜+蛋；鸭锁骨；蛋挞；红提；</summary>
   
   ![2022-05-11-dinner](./image/2022-05-11-dinner.jpeg)
 </details>
