@@ -498,3 +498,19 @@
   
   ![2022-05-11-dinner](./image/2022-05-11-dinner.jpeg)
 </details>
+
+
+### 2022/05/12
+
+<details>
+
+  <summary>中：米饭；麻辣肉片；糖醋黄瓜；哈密瓜；</summary>
+  
+  ![2022-05-12-lunch](./image/2022-05-12-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；番茄牛腩；盐酥鸡；蛋挞；哈密瓜；</summary>
+  
+  ![2022-05-12-dinner](./image/2022-05-12-dinner.jpeg)
+</details>
