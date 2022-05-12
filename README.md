@@ -514,3 +514,19 @@
   
   ![2022-05-12-dinner](./image/2022-05-12-dinner.jpeg)
 </details>
+
+
+### 2022/05/13
+
+<details>
+
+  <summary>中：米饭；菠菜；麻辣肉片；哈密瓜；</summary>
+  
+  ![2022-05-13-lunch](./image/2022-05-13-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：大鸡蛋面+蟹肉棒+撒尿牛丸+肉松+菠菜；荷包蛋；蛋挞；哈密瓜；</summary>
+  
+  ![2022-05-13-dinner](./image/2022-05-13-dinner.jpeg)
+</details>
