@@ -530,3 +530,19 @@
   
   ![2022-05-13-dinner](./image/2022-05-13-dinner.jpeg)
 </details>
+
+
+### 2022/05/14
+
+<details>
+
+  <summary>中：一颗番茄饭+黄瓜丁+热狗肠；红烧百叶结；鸭脖；酸奶蓝莓；</summary>
+  
+  ![2022-05-14-lunch](./image/2022-05-14-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：奶油培根意面；茄汁豆腐；可乐鸡翅；凤梨；</summary>
+  
+  ![2022-05-14-dinner](./image/2022-05-14-dinner.jpeg)
+</details>
