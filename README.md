@@ -536,7 +536,7 @@
 
 <details>
 
-  <summary>中：一颗番茄饭+黄瓜丁+热狗肠；红烧百叶结；鸭脖；酸奶蓝莓；</summary>
+  <summary>中：米饭；红烧百叶结；鸭脖；酸奶蓝莓；</summary>
   
   ![2022-05-14-lunch](./image/2022-05-14-lunch.jpeg)
 </details>
