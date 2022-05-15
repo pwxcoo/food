@@ -546,3 +546,19 @@
   
   ![2022-05-14-dinner](./image/2022-05-14-dinner.jpeg)
 </details>
+
+
+### 2022/05/15
+
+<details>
+
+  <summary>中：菠萝炒饭+火腿肠+蛋+肉松；糖醋黄瓜；鸭锁骨；橘子；</summary>
+  
+  ![2022-05-15-lunch](./image/2022-05-15-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；麻辣香锅（黄豆芽+撒尿牛丸+贡丸+热狗肠+腐竹+娃娃菜+蟹味棒+火锅底料+鸡翅）；橙子；</summary>
+  
+  ![2022-05-15-dinner](./image/2022-05-15-dinner.jpeg)
+</details>
