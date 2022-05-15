@@ -562,3 +562,19 @@
   
   ![2022-05-15-dinner](./image/2022-05-15-dinner.jpeg)
 </details>
+
+
+### 2022/05/16
+
+<details>
+
+  <summary>中：米饭；尖椒&小米椒牛肉片；蚝油生菜；橙子；</summary>
+  
+  ![2022-05-16-lunch](./image/2022-05-16-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：茄汁刀切面+热狗肠+荷包蛋；盐酥鸡；橘子；</summary>
+  
+  ![2022-05-16-dinner](./image/2022-05-16-dinner.jpeg)
+</details>
