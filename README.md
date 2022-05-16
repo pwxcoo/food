@@ -578,3 +578,19 @@
   
   ![2022-05-16-dinner](./image/2022-05-16-dinner.jpeg)
 </details>
+
+
+### 2022/05/17
+
+<details>
+
+  <summary>中：一颗番茄饭+黄瓜丁+火腿肠；五香干炒尖椒+小米椒；黄瓜炒蛋；橘子；</summary>
+  
+  ![2022-05-17-lunch](./image/2022-05-17-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：粽子；蚝油生菜；盐酥鸡；蓝莓酸奶；</summary>
+  
+  ![2022-05-17-dinner](./image/2022-05-17-dinner.jpeg)
+</details>
