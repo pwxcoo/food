@@ -594,3 +594,19 @@
   
   ![2022-05-17-dinner](./image/2022-05-17-dinner.jpeg)
 </details>
+
+
+### 2022/05/18
+
+<details>
+
+  <summary>中：牛肉卷；荷包蛋；热狗肠；黄瓜条；蛋挞；</summary>
+  
+  ![2022-05-18-lunch](./image/2022-05-18-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；干丝炒尖椒+小米椒；炸鸡翅；西瓜；</summary>
+  
+  ![2022-05-18-dinner](./image/2022-05-18-dinner.jpeg)
+</details>
