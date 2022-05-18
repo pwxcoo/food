@@ -610,3 +610,19 @@
   
   ![2022-05-18-dinner](./image/2022-05-18-dinner.jpeg)
 </details>
+
+
+### 2022/05/19
+
+<details>
+
+  <summary>中：米饭；青椒炒干丝；烤鸡翅；西瓜；</summary>
+  
+  ![2022-05-19-lunch](./image/2022-05-19-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；糖醋鱼；杭白菜+香肠；蓝莓酸奶；</summary>
+  
+  ![2022-05-19-dinner](./image/2022-05-19-dinner.jpeg)
+</details>
