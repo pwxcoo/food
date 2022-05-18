@@ -606,7 +606,7 @@
 </details>
 
 <details>
-  <summary>晚：米饭；干丝炒尖椒+小米椒；炸鸡翅；西瓜；</summary>
+  <summary>晚：米饭；尖椒肉片+小米椒；番茄炒蛋；西瓜；</summary>
   
   ![2022-05-18-dinner](./image/2022-05-18-dinner.jpeg)
 </details>
