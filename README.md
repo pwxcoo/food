@@ -626,3 +626,19 @@
   
   ![2022-05-19-dinner](./image/2022-05-19-dinner.jpeg)
 </details>
+
+
+### 2022/05/20
+
+<details>
+
+  <summary>中：米饭；素火腿+芹菜+小米椒；干锅肉片娃娃菜；酸奶蓝莓；</summary>
+  
+  ![2022-05-20-lunch](./image/2022-05-20-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：炒乌冬面+腊肠+杭白菜+蛋；老豆腐炒五花肉+小米椒；菠萝；</summary>
+  
+  ![2022-05-20-dinner](./image/2022-05-20-dinner.jpeg)
+</details>
