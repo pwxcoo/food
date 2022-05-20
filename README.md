@@ -632,7 +632,7 @@
 
 <details>
 
-  <summary>中：米饭；素火腿+芹菜+小米椒；干锅肉片娃娃菜；酸奶蓝莓；</summary>
+  <summary>中：米饭；素火腿+芹菜；干锅肉片娃娃菜+小米椒；酸奶蓝莓；</summary>
   
   ![2022-05-20-lunch](./image/2022-05-20-lunch.jpeg)
 </details>
