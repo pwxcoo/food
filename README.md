@@ -648,13 +648,13 @@
 
 <details>
 
-  <summary>中：手抓饼披萨（芝士+肉松+火腿肠+香肠+番茄）；蚝油西兰花；煎火腿肠+煎蛋；菠萝；</summary>
+  <summary>中：手抓饼披萨（芝士+火腿肠+香肠+番茄）；蚝油西兰花；煎火腿肠+煎蛋；菠萝；</summary>
   
   ![2022-05-21-lunch](./image/2022-05-21-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：米饭；麻辣香锅（娃娃菜+西兰花+腐竹+香菜+火腿肠+蟹味棒+竹轮）；糖醋黄瓜；</summary>
+  <summary>晚：米饭；麻辣香锅（娃娃菜+西兰花+腐竹+香菜+火腿肠+蟹味棒+竹轮+鸡翅+撒尿牛丸）；糖醋黄瓜；</summary>
   
   ![2022-05-21-dinner](./image/2022-05-21-dinner.jpeg)
 </details>
