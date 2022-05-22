@@ -664,13 +664,13 @@
 
 <details>
 
-  <summary>中：米饭；腐竹+芹菜+精瘦肉；精瘦肉+尖椒；糖醋黄瓜；</summary>
+  <summary>中：米饭；腐竹+芹菜；牛肉片+尖椒；糖醋黄瓜；</summary>
   
   ![2022-05-22-lunch](./image/2022-05-22-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：炒饭+蛋+香肠；小青菜；排骨汤；网纹瓜；</summary>
+  <summary>晚：粽子；排骨汤+小青菜；网纹瓜；</summary>
   
   ![2022-05-22-dinner](./image/2022-05-22-dinner.jpeg)
 </details>
