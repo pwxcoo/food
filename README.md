@@ -674,3 +674,9 @@
   
   ![2022-05-22-dinner](./image/2022-05-22-dinner.jpeg)
 </details>
+
+<details>
+  <summary>晚：泡面+蛋+饺子；</summary>
+  
+  ![2022-05-22-supper](./image/2022-05-22-supper.jpeg)
+</details>
