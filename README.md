@@ -680,3 +680,19 @@
   
   ![2022-05-22-supper](./image/2022-05-22-supper.jpeg)
 </details>
+
+
+### 2022/05/23
+
+<details>
+
+  <summary>中：面包+培根；网纹瓜；</summary>
+  
+  ![2022-05-23-lunch](./image/2022-05-23-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：</summary>
+  
+  ![2022-05-23-dinner](./image/2022-05-23-dinner.jpeg)
+</details>
