@@ -696,3 +696,19 @@
   
   ![2022-05-23-dinner](./image/2022-05-23-dinner.jpeg)
 </details>
+
+
+### 2022/05/24
+
+<details>
+
+  <summary>中：米饭；芹菜+尖椒+香肠；盐水鸭；网纹瓜；</summary>
+  
+  ![2022-05-24-lunch](./image/2022-05-24-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：泡面+蛋+豆腐+油面筋+火腿肠+娃娃菜；蓝莓酸奶；</summary>
+  
+  ![2022-05-24-dinner](./image/2022-05-24-dinner.jpeg)
+</details>
