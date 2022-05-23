@@ -692,7 +692,7 @@
 </details>
 
 <details>
-  <summary>晚：</summary>
+  <summary>晚：米饭；盐酥鸡；番茄炒蛋；网纹瓜；</summary>
   
   ![2022-05-23-dinner](./image/2022-05-23-dinner.jpeg)
 </details>
