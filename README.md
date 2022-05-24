@@ -702,7 +702,7 @@
 
 <details>
 
-  <summary>中：米饭；芹菜+尖椒+香肠；盐水鸭；网纹瓜；</summary>
+  <summary>中：米饭；芹菜+尖椒；盐水鸭；网纹瓜；</summary>
   
   ![2022-05-24-lunch](./image/2022-05-24-lunch.jpeg)
 </details>
