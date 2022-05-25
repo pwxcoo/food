@@ -728,3 +728,19 @@
   
   ![2022-05-25-dinner](./image/2022-05-25-dinner.jpeg)
 </details>
+
+
+### 2022/05/26
+
+<details>
+
+  <summary>中：米饭；香菜五花肉；炒蛋；蓝莓酸奶；</summary>
+  
+  ![2022-05-26-lunch](./image/2022-05-26-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：番茄肉面+荷包蛋+油面筋；蓝莓酸奶；</summary>
+  
+  ![2022-05-26-dinner](./image/2022-05-26-dinner.jpeg)
+</details>
