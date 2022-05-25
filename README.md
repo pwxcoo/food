@@ -712,3 +712,19 @@
   
   ![2022-05-24-dinner](./image/2022-05-24-dinner.jpeg)
 </details>
+
+
+### 2022/05/25
+
+<details>
+
+  <summary>中：米饭；荷兰豆+香肠；骨肉相连x2；提子；</summary>
+  
+  ![2022-05-25-lunch](./image/2022-05-25-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；红烧油豆腐；鸡翅；提子；</summary>
+  
+  ![2022-05-25-dinner](./image/2022-05-25-dinner.jpeg)
+</details>
