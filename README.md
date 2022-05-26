@@ -740,7 +740,7 @@
 </details>
 
 <details>
-  <summary>晚：番茄肉面+荷包蛋+油面筋；蓝莓酸奶；</summary>
+  <summary>晚：番茄肉面+荷包蛋；蓝莓酸奶；</summary>
   
   ![2022-05-26-dinner](./image/2022-05-26-dinner.jpeg)
 </details>
