@@ -744,3 +744,19 @@
   
   ![2022-05-26-dinner](./image/2022-05-26-dinner.jpeg)
 </details>
+
+
+### 2022/05/27
+
+<details>
+
+  <summary>中：面包+煎蛋+培根；煎饺；凤梨；</summary>
+  
+  ![2022-05-27-lunch](./image/2022-05-27-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；鸡蛋卷；烤翅；凤梨；</summary>
+  
+  ![2022-05-27-dinner](./image/2022-05-27-dinner.jpeg)
+</details>
