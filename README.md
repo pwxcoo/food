@@ -760,3 +760,19 @@
   
   ![2022-05-27-dinner](./image/2022-05-27-dinner.jpeg)
 </details>
+
+
+### 2022/05/28
+
+<details>
+
+  <summary>中：煎饺；小酥肉；西瓜；</summary>
+  
+  ![2022-05-28-lunch](./image/2022-05-28-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：炒年糕+蛋+火腿肠+娃娃菜；菠菜丸子汤；骨肉相连；甜瓜；</summary>
+  
+  ![2022-05-28-dinner](./image/2022-05-28-dinner.jpeg)
+</details>
