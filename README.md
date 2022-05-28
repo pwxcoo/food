@@ -776,3 +776,19 @@
   
   ![2022-05-28-dinner](./image/2022-05-28-dinner.jpeg)
 </details>
+
+
+### 2022/05/29
+
+<details>
+
+  <summary>中：米饭；糖醋小排+百叶结；炒菠菜；西瓜；</summary>
+  
+  ![2022-05-29-lunch](./image/2022-05-29-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：蛋挞披萨（蕃茄酱+芝士+鸡蛋+火腿肠）；鸭锁骨；绿豆汤；</summary>
+  
+  ![2022-05-29-dinner](./image/2022-05-29-dinner.jpeg)
+</details>
