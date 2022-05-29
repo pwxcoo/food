@@ -792,3 +792,19 @@
   
   ![2022-05-29-dinner](./image/2022-05-29-dinner.jpeg)
 </details>
+
+
+### 2022/05/30
+
+<details>
+
+  <summary>中：米饭；尖椒炒香干；扇子骨；甜瓜；</summary>
+  
+  ![2022-05-30-lunch](./image/2022-05-30-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：葱油饼；绿豆汤；骨肉相连+小酥肉；</summary>
+  
+  ![2022-05-30-dinner](./image/2022-05-30-dinner.jpeg)
+</details>
