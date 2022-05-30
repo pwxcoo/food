@@ -804,7 +804,7 @@
 </details>
 
 <details>
-  <summary>晚：葱油饼；绿豆汤；骨肉相连+小酥肉；</summary>
+  <summary>晚：葱油饼+蛋；绿豆汤；骨肉相连+小酥肉；</summary>
   
   ![2022-05-30-dinner](./image/2022-05-30-dinner.jpeg)
 </details>
