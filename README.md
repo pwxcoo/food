@@ -824,3 +824,19 @@
   
   ![2022-05-31-dinner](./image/2022-05-31-dinner.jpeg)
 </details>
+
+
+### 2022/06/01
+
+<details>
+
+  <summary>中：云吞面+撒尿牛丸+油面筋+卤蛋；</summary>
+  
+  ![2022-06-01-lunch](./image/2022-06-01-lunch.jpeg)
+</details>
+
+<details>
+  <summary>晚：米饭；百叶结炒小排；番茄炒蛋；</summary>
+  
+  ![2022-06-01-dinner](./image/2022-06-01-dinner.jpeg)
+</details>
