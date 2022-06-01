@@ -830,13 +830,13 @@
 
 <details>
 
-  <summary>中：云吞面+撒尿牛丸+油面筋+卤蛋；</summary>
+  <summary>中：云吞面+撒尿牛丸+油面筋+卤蛋；提子；</summary>
   
   ![2022-06-01-lunch](./image/2022-06-01-lunch.jpeg)
 </details>
 
 <details>
-  <summary>晚：米饭；百叶结炒小排；番茄炒蛋；</summary>
+  <summary>晚：米饭；百叶结炒小排；番茄炒蛋；提子；</summary>
   
   ![2022-06-01-dinner](./image/2022-06-01-dinner.jpeg)
 </details>
